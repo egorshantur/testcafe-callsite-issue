@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "testcafe": "3.6.2"
+  },
+  "scripts": {
+    "test": "testcafe chrome test.js --disable-native-automation"
+  }
+}
